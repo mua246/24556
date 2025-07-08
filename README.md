@@ -32,4 +32,4 @@ FC2、TokyoMotion（海外平台）
 选择支持 HTTPS 的站点，提高访问安全性。
 
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link](https://github.com/mua246/24556 ）</span>
